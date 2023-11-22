@@ -19,3 +19,4 @@ for i in range(n):
 kq=np.linalg.solve(X,x)
 print("Nghiệm phương trình là: ",kq)
 
+
